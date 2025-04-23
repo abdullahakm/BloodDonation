@@ -6,17 +6,19 @@ This is a backend API for a Blood Donation Management System developed using **A
 
 ## 📚 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Architecture](#architecture)
-- [Solution Structure](#solution-structure)
-- [Technology Stack](#technology-stack)
-- [Entities & Enums](#entities--enums)
-- [User Flow](#user-flow)
-- [Roles](#roles)
-- [Future Scope](#future-scope)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+- [🩸 Blood Donation API](#-blood-donation-api)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [✅ Project Overview](#-project-overview)
+  - [🏗️ Architecture](#️-architecture)
+  - [📁 Solution Structure](#-solution-structure)
+  - [🧪 Technology Stack](#-technology-stack)
+  - [🧬 Entities \& Enums](#-entities--enums)
+    - [Enums:](#enums)
+  - [🔁 User Flow](#-user-flow)
+  - [🚀 Future Scope](#-future-scope)
+  - [🛠️ Getting Started](#️-getting-started)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
 
 ---
 
@@ -130,7 +132,7 @@ BloodDonationApi.sln
 ## 🛠️ Getting Started
 
 > Prerequisites:
-- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+- [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ```bash
@@ -157,18 +159,12 @@ We welcome contributions from the community. Please follow these steps:
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-> 🔨 Built with care by a passionate development team to save lives with code.
-
-## License
-
 This project is licensed under a proprietary license. All rights reserved.
 
 Copyright (c) 2025 [Your Name or Company].
 
 This software is proprietary and confidential. Unauthorized copying, distribution, modification, or use of this software is strictly prohibited.
 
-For licensing inquiries or commercial integration, please contact [youremail@example.com].
+For licensing inquiries or commercial integration, please contact abdullahakm43@gmail.com .
+
+> 🔨 Built with care by a passionate development team to save lives with code.
