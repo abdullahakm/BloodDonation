@@ -1,0 +1,9 @@
+## License
+
+This project is licensed under a proprietary license. All rights reserved.
+
+Copyright (c) 2025 [Your Name or Company].
+
+This software is proprietary and confidential. Unauthorized copying, distribution, modification, or use of this software is strictly prohibited.
+
+For licensing inquiries or commercial integration, please contact abdullahakm43@gmail.com .
