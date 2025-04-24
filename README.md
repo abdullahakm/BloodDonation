@@ -161,7 +161,7 @@ We welcome contributions from the community. Please follow these steps:
 
 This project is licensed under a proprietary license. All rights reserved.
 
-Copyright (c) 2025 [Your Name or Company].
+Copyright (c) 2025 Dreams Solution.
 
 This software is proprietary and confidential. Unauthorized copying, distribution, modification, or use of this software is strictly prohibited.
 
