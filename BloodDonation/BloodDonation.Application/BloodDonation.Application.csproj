@@ -1,6 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
+    <Folder Include="Common\Mappings\" />
+    <Folder Include="Dtos\BloodRecordDtos\Validators\" />
+    <Folder Include="Dtos\BloodTestDtos\Validators\" />
+    <Folder Include="Dtos\CityDtos\Validators\" />
+    <Folder Include="Dtos\HospitalDtos\Validators\" />
+    <Folder Include="Dtos\PersonDtos\Validators\" />
     <Folder Include="Services\BloodRecordService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" />
   </ItemGroup>
 </Project>
 
