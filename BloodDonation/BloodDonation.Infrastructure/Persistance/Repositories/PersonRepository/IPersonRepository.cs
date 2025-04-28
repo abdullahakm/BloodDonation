@@ -1,6 +1,5 @@
-﻿namespace BloodDonation.Infrastructure.Persistance.Repositories.PersonRepository
+﻿namespace BloodDonation.Infrastructure.Persistance.Repositories.PersonRepository;
+
+public interface IPersonRepository
 {
-    public interface IPersonRepository
-    {
-    }
 }

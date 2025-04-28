@@ -1,6 +1,5 @@
-﻿namespace BloodDonation.Application.Services.BloodRecordService
+﻿namespace BloodDonation.Application.Services.BloodRecordService;
+
+public class BloodRecordService
 {
-    public class BloodRecordService
-    {
-    }
 }

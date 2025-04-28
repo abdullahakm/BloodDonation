@@ -1,6 +1,5 @@
-﻿namespace BloodDonation.Application.Services.BloodTestService
+﻿namespace BloodDonation.Application.Services.BloodTestService;
+
+public interface IBloodTestService
 {
-    public interface IBloodTestService
-    {
-    }
 }

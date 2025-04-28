@@ -1,18 +1,17 @@
-﻿namespace BloodDonation.Domain.Entities.Enums
+﻿namespace BloodDonation.Domain.Entities.Enums;
+
+/// <summary>
+/// Specifies the type of blood-related action performed by a person.
+/// </summary>
+public enum BloodActionType
 {
     /// <summary>
-    /// Specifies the type of blood-related action performed by a person.
+    /// Indicates that the person has donated blood.
     /// </summary>
-    public enum BloodActionType
-    {
-        /// <summary>
-        /// Indicates that the person has donated blood.
-        /// </summary>
-        Donation,
+    Donation,
 
-        /// <summary>
-        /// Indicates that the person has requested blood.
-        /// </summary>
-        Request
-    }
+    /// <summary>
+    /// Indicates that the person has requested blood.
+    /// </summary>
+    Request
 }

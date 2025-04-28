@@ -1,6 +1,5 @@
-﻿namespace BloodDonation.Infrastructure.Persistance.Repositories.HospitalRepository
+﻿namespace BloodDonation.Infrastructure.Persistance.Repositories.HospitalRepository;
+
+public interface IHospitalRepository
 {
-    public interface IHospitalRepository
-    {
-    }
 }

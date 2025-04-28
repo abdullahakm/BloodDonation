@@ -1,6 +1,5 @@
-﻿namespace BloodDonation.Application.Services.HospitalService
+﻿namespace BloodDonation.Application.Services.HospitalService;
+
+public interface IHospitalService
 {
-    public interface IHospitalService
-    {
-    }
 }

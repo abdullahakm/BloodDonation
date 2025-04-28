@@ -1,6 +1,5 @@
-﻿namespace BloodDonation.Application.Services.PersonService
+﻿namespace BloodDonation.Application.Services.PersonService;
+
+public interface IPersonService
 {
-    public interface IPersonService
-    {
-    }
 }
