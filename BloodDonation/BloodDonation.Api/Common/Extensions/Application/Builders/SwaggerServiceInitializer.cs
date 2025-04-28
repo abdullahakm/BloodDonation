@@ -3,7 +3,7 @@
     public static class SwaggerServiceInitializer
     {
         public static IApplicationBuilder UseSwaggerService(this IApplicationBuilder app) =>
-           app.UseSwaggerService()
+           app.UseSwagger()
                .UseSwaggerUI(options =>
                {
                       options.SwaggerEndpoint("/swagger/v1/swagger.json", "Blood Donation API v1");

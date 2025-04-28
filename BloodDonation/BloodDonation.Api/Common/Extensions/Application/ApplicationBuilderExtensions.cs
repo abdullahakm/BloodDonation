@@ -1,4 +1,5 @@
 ﻿using BloodDonation.Api.Common.Extensions.Application.Builders;
+using BloodDonation.Api.Common.Middlewares;
 
 namespace BloodDonation.Api.Common.Extensions.Application;
 
@@ -12,6 +13,7 @@ public static class ApplicationBuilderExtensions
             app.MapOpenApi();
         }
         app.UseSwaggerService();
+        app.UseMiddleware<GlobalExceptionHandlingMiddleware>();
         app.UseHttpsRedirection();
 
         app.UseAuthorization();
